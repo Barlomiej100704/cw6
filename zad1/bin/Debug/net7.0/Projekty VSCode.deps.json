@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projekty VSCode/1.0.0": {
+        "runtime": {
+          "Projekty VSCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekty VSCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

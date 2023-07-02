@@ -1,0 +1,15 @@
+E:\Projekty VSCode\bin\Debug\net7.0\Projekty VSCode.exe
+E:\Projekty VSCode\bin\Debug\net7.0\Projekty VSCode.deps.json
+E:\Projekty VSCode\bin\Debug\net7.0\Projekty VSCode.runtimeconfig.json
+E:\Projekty VSCode\bin\Debug\net7.0\Projekty VSCode.dll
+E:\Projekty VSCode\bin\Debug\net7.0\Projekty VSCode.pdb
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.csproj.AssemblyReference.cache
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.AssemblyInfoInputs.cache
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.AssemblyInfo.cs
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.csproj.CoreCompileInputs.cache
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.dll
+E:\Projekty VSCode\obj\Debug\net7.0\refint\Projekty VSCode.dll
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.pdb
+E:\Projekty VSCode\obj\Debug\net7.0\Projekty VSCode.genruntimeconfig.cache
+E:\Projekty VSCode\obj\Debug\net7.0\ref\Projekty VSCode.dll
