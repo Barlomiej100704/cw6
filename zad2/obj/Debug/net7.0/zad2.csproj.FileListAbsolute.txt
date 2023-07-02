@@ -1,0 +1,15 @@
+E:\Projekty VSCode\cw6\zad2\bin\Debug\net7.0\zad2.exe
+E:\Projekty VSCode\cw6\zad2\bin\Debug\net7.0\zad2.deps.json
+E:\Projekty VSCode\cw6\zad2\bin\Debug\net7.0\zad2.runtimeconfig.json
+E:\Projekty VSCode\cw6\zad2\bin\Debug\net7.0\zad2.dll
+E:\Projekty VSCode\cw6\zad2\bin\Debug\net7.0\zad2.pdb
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.dll
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\refint\zad2.dll
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.pdb
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+E:\Projekty VSCode\cw6\zad2\obj\Debug\net7.0\ref\zad2.dll

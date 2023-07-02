@@ -1,0 +1,15 @@
+E:\Projekty VSCode\cw6\zad3a\bin\Debug\net7.0\zad3a.exe
+E:\Projekty VSCode\cw6\zad3a\bin\Debug\net7.0\zad3a.deps.json
+E:\Projekty VSCode\cw6\zad3a\bin\Debug\net7.0\zad3a.runtimeconfig.json
+E:\Projekty VSCode\cw6\zad3a\bin\Debug\net7.0\zad3a.dll
+E:\Projekty VSCode\cw6\zad3a\bin\Debug\net7.0\zad3a.pdb
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.csproj.AssemblyReference.cache
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.AssemblyInfoInputs.cache
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.AssemblyInfo.cs
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.csproj.CoreCompileInputs.cache
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.dll
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\refint\zad3a.dll
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.pdb
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\zad3a.genruntimeconfig.cache
+E:\Projekty VSCode\cw6\zad3a\obj\Debug\net7.0\ref\zad3a.dll
